@@ -12,12 +12,14 @@ List of React:
 
 ### useIt
 
-// It's better than Bootstrap Media Queries for Mobile Device
+// It's better than Bootstrap Media Queries for Mobile Devices
 
 ```css
 /* =============================
 ===Responsive CSS starts here===
 ============================= */
+
+
 
 
 
@@ -48,7 +50,8 @@ List of React:
 
 
 
-==================================================
+
+==============================
 
 
 
